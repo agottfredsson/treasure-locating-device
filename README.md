@@ -1,6 +1,6 @@
 # Treasure locating device
 
-yarn install
+yarn install\
 yarn dev
 
 enjoy!
