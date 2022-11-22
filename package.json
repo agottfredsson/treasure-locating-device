@@ -1,0 +1,16 @@
+{
+  "name": "treasure-locating-device",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn tsc && yarn ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
